@@ -134,10 +134,10 @@ namespace MenuConsole
                             \SISTEMA DE VENDAS\bancoDados-clientes2.txt"))
                                 using (StreamReader write = new StreamReader(@"C:\Users\halla\OneDrive\Área de Trabalho\sistema_vendas\sistema_vendas
                             \SISTEMA DE VENDAS\bancoDados-clientes3.txt"))
-
+    
                                     Console.WriteLine("DIGITE O CODIGO DE REGISTRO DE CLIENTE");
                                 line_delete = Convert.ToInt32(Console.ReadLine());
-                                
+                             
                             
                         
                        
